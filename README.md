@@ -5,6 +5,8 @@
 The Bank Loan Analysis project focuses on analyzing and visualizing lending data to assess the overall health and performance of a bank’s loan portfolio. The goal is to monitor key metrics such as loan applications, funded amounts, repayment patterns, and borrower profiles — enabling data-driven decisions and improved lending strategies.
 This project is structured into three main dashboards — **Summary**, **Overview**, and **Details** — each serving a specific analytical purpose and providing a comprehensive understanding of the bank’s loan operations.
 
+#### Link to view Dashboard - [https://app.powerbi.com/view?asbpintu=dahboard-powerbi-microsoft sql server](https://app.powerbi.com/view?r=eyJrIjoiNmNhOWU5ZDMtNTViMS00ZTE1LWFhMDctZjZmNmE2NzVlNTk1IiwidCI6IjNmNDkzZjcyLWZkNmYtNGJhNC04ZTUzLWQwNmYyNGM0Y2M5MyJ9&pageName=ReportSectionad941136b72c534286dd)
+
 ## Workflow
 
 ### 1.	Data Processing (SQL Server):
@@ -33,6 +35,7 @@ Provides an overall snapshot of lending performance with key KPIs:
 #### **Excel**
 ![image-3](https://github.com/asbpintu/Bank-Loan-Analysis---Power-Bi-Excel-Dashboard-and-Tableau/blob/266959eca85a955f480eafbd483d4ffda0b1ff15/Images/Excel%20Summary.png)
 
+#### Link to view Dashboard - [https://app.powerbi.com/view?asbpintu=dahboard-powerbi-microsoft sql server](https://app.powerbi.com/view?r=eyJrIjoiNmNhOWU5ZDMtNTViMS00ZTE1LWFhMDctZjZmNmE2NzVlNTk1IiwidCI6IjNmNDkzZjcyLWZkNmYtNGJhNC04ZTUzLWQwNmYyNGM0Y2M5MyJ9&pageName=ReportSectionad941136b72c534286dd)
 
 ### 2. Overview Dashboard
 Visualizes loan trends and borrower distribution using multiple chart types:
@@ -56,6 +59,9 @@ Acts as a detailed data exploration view, allowing users to analyze borrower-lev
 
 #### **Power Bi**
 ![image-6](https://github.com/asbpintu/Bank-Loan-Analysis---Power-Bi-Excel-Dashboard-and-Tableau/blob/266959eca85a955f480eafbd483d4ffda0b1ff15/Images/Power%20Bi%20Details.png)
+
+#### Link to view Dashboard - [https://app.powerbi.com/view?asbpintu=dahboard-powerbi-microsoft sql server](https://app.powerbi.com/view?r=eyJrIjoiNmNhOWU5ZDMtNTViMS00ZTE1LWFhMDctZjZmNmE2NzVlNTk1IiwidCI6IjNmNDkzZjcyLWZkNmYtNGJhNC04ZTUzLWQwNmYyNGM0Y2M5MyJ9&pageName=ReportSectionad941136b72c534286dd)
+
 #### **Excel**
 ![image-7](https://github.com/asbpintu/Bank-Loan-Analysis---Power-Bi-Excel-Dashboard-and-Tableau/blob/266959eca85a955f480eafbd483d4ffda0b1ff15/Images/Excel%20Details.png)
 
@@ -68,6 +74,7 @@ Acts as a detailed data exploration view, allowing users to analyze borrower-lev
   *	**Languages:** SQL, DAX
   *	**Techniques:** Data Cleaning, KPI Calculation, Dashboard Design, Performance Validation
 
+#### Link to view Dashboard - [https://app.powerbi.com/view?asbpintu=dahboard-powerbi-microsoft sql server](https://app.powerbi.com/view?r=eyJrIjoiNmNhOWU5ZDMtNTViMS00ZTE1LWFhMDctZjZmNmE2NzVlNTk1IiwidCI6IjNmNDkzZjcyLWZkNmYtNGJhNC04ZTUzLWQwNmYyNGM0Y2M5MyJ9&pageName=ReportSectionad941136b72c534286dd)
 
 ## Key Outcomes
 *	Delivered a set of accurate, interactive dashboards that help track loan performance.
